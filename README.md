@@ -1,5 +1,5 @@
 # Wordpress-Portfolio
-Utworzone portfolio oraz strona serwisu w ramach stażu
+Utworzone portfolio oraz strona serwisu chemii gospodarczej w ramach stażu
 
 Link: https://zywczakwebs.slask.pl
 
